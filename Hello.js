@@ -130,3 +130,6 @@ newGameBtn.addEventListener("click", function () {
 	newGame();
 });
 
+
+// Writing useless changes to commit
+
